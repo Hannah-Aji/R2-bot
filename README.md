@@ -20,7 +20,7 @@ To implement light detection and object detection for the purpose of decision ma
 
 
 ## Demo showing an operational turtlebot fulfiling orders, using Light and Food detection
-[![Video Presentation](https://via.placeholder.com/150)]([(https://drive.google.com/file/d/1Mp6J9l5eZZNH2oVENtqfElrkszVsy1E1/view?usp=sharing)])
+View the demo here [Demo](https://drive.google.com/file/d/12tHoJDJxt9spCBk_9kUr4bh-te48sJua/view?resourcekey)
 
 
 ## Project objectives
@@ -30,3 +30,6 @@ The main objectives we aim to approve is to:
 - **Integrate sensor components, computer vision algorithms, and machine learning techniques for perception and decision-making**
 - **Test and demonstrate the feasibility and practicality of the proposed solution with real-world variables  and with ideal performance standards**
 
+
+## In-Depth Technical report
+View the report here [Technical report](https://docs.google.com/presentation/d/1eb9FhlfIevGrt4pKTMH5mopMgR1cYXbDe5jKMfd3KZs/edit#slide=id.p)
