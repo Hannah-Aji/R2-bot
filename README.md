@@ -20,7 +20,9 @@ To implement light detection and object detection for the purpose of decision ma
 
 
 ## Demo showing an operational turtlebot fulfiling orders, using Light and Food detection
-View the demo here [Demo](https://drive.google.com/file/d/12tHoJDJxt9spCBk_9kUr4bh-te48sJua/view?resourcekey)
+View the demo here [Demo](https://drive.google.com/file/d/1Mp6J9l5eZZNH2oVENtqfElrkszVsy1E1/view)
+View the light detectection feature here [Demo](https://drive.google.com/file/d/12tHoJDJxt9spCBk_9kUr4bh-te48sJua/view?resourcekey)
+
 
 
 ## Project objectives
